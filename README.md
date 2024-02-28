@@ -4,7 +4,7 @@ Project Summary and Features
 
   + Crud operation on blogs
   + Custom user model
-  + Registration
+  + Register User Through Admin
   + Authentication through username plus email
   + Personal profile management
   + Filter blogs by different criteria (title, category, tags)
