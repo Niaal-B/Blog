@@ -1,5 +1,3 @@
-This is My Final Year Project
-
 Live Link : nihalb.pythonanywhere.com
 
   
