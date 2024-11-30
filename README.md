@@ -1,4 +1,3 @@
-Live Link : nihalb.pythonanywhere.co
 
   
 Project Summary and Features
